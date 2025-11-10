@@ -1,1 +1,1 @@
-new bug relase.
+Fix the bug
